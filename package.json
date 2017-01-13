@@ -1,0 +1,12 @@
+{
+  "name": "random-jpn-emoji",
+  "version": "1.0.0",
+  "description": "I need a Japanese style emoji! (ง,,• ᴗ •,,)ง ✧",
+  "main": "index.js",
+  "keywords": ["emoji"],
+  "author": {
+    "name": "LancerComet",
+    "email": "chw644@hotmail.com"
+  },
+  "license": "MIT"
+}
