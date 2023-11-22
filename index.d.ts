@@ -1,6 +1,6 @@
 declare module 'random-jpn-emoji' {
-  happy: () => string
-  sad: () => string
-  shock: () => string
-  helpless: () => string
+  export const happy: () => string
+  export const sad: () => string
+  export const shock: () => string
+  export const helpless: () => string
 }
