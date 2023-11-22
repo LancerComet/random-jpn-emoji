@@ -1,6 +1,6 @@
 {
   "name": "random-jpn-emoji",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "I need a Japanese style emoji! (ง,,• ᴗ •,,)ง ✧",
   "main": "index.js",
   "module": "index.esm.js",
