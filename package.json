@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "I need a Japanese style emoji! (ง,,• ᴗ •,,)ง ✧",
   "main": "index.js",
+  "module": "index.esm.js",
   "keywords": ["emoji"],
   "author": {
     "name": "LancerComet",

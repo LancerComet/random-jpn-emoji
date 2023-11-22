@@ -14,7 +14,7 @@ const shock = () => getOne('shock')
 const sad = () => getOne('sad')
 const helpless = () => getOne('helpless')
 
-module.exports = {
+export {
   happy,
   shock,
   sad,
