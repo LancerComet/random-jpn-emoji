@@ -4,6 +4,7 @@
   "description": "I need a Japanese style emoji! (ง,,• ᴗ •,,)ง ✧",
   "main": "index.js",
   "module": "index.esm.js",
+  "types": "index.d.ts",
   "keywords": [
     "emoji"
   ],

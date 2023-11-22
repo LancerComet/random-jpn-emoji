@@ -5,22 +5,22 @@ I need a Japanese style emoji! (ง,,• ᴗ •,,)ง ✧
 ## Quick Start.
 
 ```javascript
-const emoji = require('random-jpn-emoji')
+import { happy, sad, helpless, shock } from 'random-jpn-emoji'
 
 // "Hey what's up man?"
-emoji.happy()
+happy()
 // (●'◡'●)ﾉ♥
 
 // "Nothing... um... my girlfriend has just left me!"
-emoji.sad()
+sad()
 // (´；ω；`)
 
 // "Yeah, I know."
-emoji.helpless()
+helpless()
 // _(•̀ᴗ•́ 」∠ ❀)_
 
 // "WTF ?!"
-emoji.shock()
+shock()
 // ∑(っ °Д °;)っ
 ```
 
